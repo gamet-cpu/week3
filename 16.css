@@ -1,0 +1,23 @@
+input:hover{
+    background-color: red;
+}
+input:focus{
+    border: 2px,solid, blue;
+
+}
+li:first-child{
+    color: blue;
+}
+li:last-child{
+    color: red;
+}
+p:first-child{
+    size: 40px;
+}
+p:last-child{
+    size: 40px;
+
+}
+a:hover{
+    color: yellow;
+}
