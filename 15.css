@@ -1,0 +1,12 @@
+#dis{
+    display: block;
+}
+#dis2{
+    display: inline;
+}
+div{
+    margin: 10px;
+}
+a{
+    display: block ;
+}
